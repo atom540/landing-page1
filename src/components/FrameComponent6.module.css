@@ -1,0 +1,270 @@
+.understandAddictionAnd {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.understandAddictionAndItsWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-17xl) 0 var(--padding-18xl);
+}
+.youMustUnderstand {
+  margin-block-start: 0;
+  margin-block-end: 4px;
+}
+.howDrugsAffect {
+  margin: 0;
+}
+.youMustUnderstandContainer {
+  align-self: stretch;
+  height: 188px;
+  position: relative;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-20-size);
+  line-height: 32px;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frameGroup,
+.frameWrapper {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameGroup {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-19xl);
+}
+.frameWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-21xl) 0 var(--padding-19xl);
+  box-sizing: border-box;
+}
+.wrapperGroup1000000901Child {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 20px;
+  transform: scale(1.176);
+}
+.wrapperGroup1000000901 {
+  height: 797px;
+  width: 1280px;
+  position: absolute;
+  margin: 0 !important;
+  top: -399px;
+  left: -284px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.frameChild {
+  width: 713px;
+  height: 320px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--secondary-color);
+  display: none;
+  max-width: 100%;
+}
+.dataGatherer {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-limegreen);
+  z-index: 2;
+}
+.dataGathererWrapper {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-44xl) 0 var(--padding-43xl);
+}
+.alcoholAddiction {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 2;
+}
+.frameContainer,
+.frameDiv {
+  display: flex;
+  align-items: flex-start;
+}
+.frameDiv {
+  align-self: stretch;
+  width: 195px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.frameContainer {
+  width: 484px;
+  height: 115px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.alcoholIsThe,
+.oneOfThe {
+  margin: 0;
+}
+.alcoholIsTheContainer,
+.learnMore {
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.alcoholIsTheContainer {
+  line-height: 26px;
+  color: var(--color-dimgray-200);
+  max-width: 100%;
+}
+.learnMore {
+  text-decoration: underline;
+  letter-spacing: 0.02em;
+  line-height: 155%;
+  min-width: 90px;
+  white-space: nowrap;
+}
+.iconlylightOutlinearrowR {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  object-fit: cover;
+  z-index: 2;
+}
+.iconlylightOutlinearrowRWrapper,
+.learnMoreParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.iconlylightOutlinearrowRWrapper {
+  height: 25px;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.learnMoreParent {
+  flex-direction: row;
+  gap: var(--gap-6xs);
+}
+.outputGenerator,
+.rectangleParent {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.outputGenerator {
+  width: 484px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-12xs);
+  text-align: left;
+  color: var(--dark-blue-design);
+}
+.rectangleParent {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--secondary-color);
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-4xl) var(--padding-2xl) var(--padding-16xl)
+    var(--padding-xl);
+  gap: var(--gap-3xl);
+  z-index: 1;
+}
+.masterComponent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  position: relative;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+  color: var(--wwwdrugrehabcom-fiord);
+}
+.frameParent,
+.homeDesktopInner,
+.masterComponent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameParent {
+  width: 713px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-30xl);
+}
+.homeDesktopInner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-79xl) var(--padding-2xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--dark-blue-design);
+  font-family: var(--wwwdrugrehabcom-open-sans-regular-14-upper);
+}
+@media screen and (max-width: 800px) {
+  .understandAddictionAnd {
+    font-size: var(--font-size-7xl);
+    line-height: 31px;
+  }
+  .frameGroup {
+    gap: 19px 38px;
+  }
+  .frameParent {
+    gap: 24px 49px;
+  }
+  .homeDesktopInner {
+    padding-bottom: var(--padding-45xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .understandAddictionAnd {
+    font-size: var(--font-size-lgi);
+    line-height: 23px;
+  }
+  .youMustUnderstandContainer {
+    font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+    line-height: 26px;
+  }
+  .alcoholAddiction {
+    font-size: var(--font-size-lgi);
+  }
+}

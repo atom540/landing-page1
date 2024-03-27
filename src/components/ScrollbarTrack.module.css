@@ -1,0 +1,419 @@
+.spacer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-limegreen);
+  width: 100%;
+  height: 100%;
+}
+.divider {
+  position: absolute;
+  top: 11px;
+  left: 36px;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  font-weight: 600;
+  z-index: 1;
+}
+.tableFooter {
+  height: 109px;
+  flex: 1;
+  position: relative;
+}
+.tableRow {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-19xl);
+}
+.search {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 1.8px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 90px;
+}
+.searchWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-21xl);
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.findYourBest {
+  position: relative;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-20-size);
+  line-height: 33px;
+  color: var(--color-dimgray-200);
+}
+.tableCell {
+  width: 229px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-25xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-3xl);
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-limegreen);
+  width: 100%;
+  height: 100%;
+}
+.div {
+  position: absolute;
+  top: 11px;
+  left: 36px;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  font-weight: 600;
+  z-index: 1;
+}
+.ellipseParent {
+  height: 109px;
+  flex: 1;
+  position: relative;
+}
+.tableCellInner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 var(--padding-18xl);
+}
+.book {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 1.8px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 67px;
+}
+.bookWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-37xl) 0 var(--padding-35xl);
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.bookACall {
+  position: relative;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-20-size);
+  line-height: 33px;
+  color: var(--color-dimgray-200);
+}
+.tableCell1 {
+  width: 177px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.calloutIcon {
+  height: 31.4px;
+  width: 253.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: 48.6px;
+  right: -134.5px;
+  z-index: 1;
+}
+.labeledValue {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-limegreen);
+  width: 100%;
+  height: 100%;
+}
+.actionButton {
+  position: absolute;
+  top: 11px;
+  left: 36px;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  font-weight: 600;
+  z-index: 1;
+}
+.infoBubble {
+  height: 109px;
+  width: 109px;
+  position: relative;
+}
+.thumbnailBox {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-10xl) 0 var(--padding-xl);
+}
+.setYourFirst {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 1.8px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--color-black);
+}
+.getGdaAt {
+  position: relative;
+  line-height: 33px;
+}
+.getGdaAtHomeWrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-44xl) 0 var(--padding-45xl);
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-20-size);
+  color: var(--color-dimgray-200);
+}
+.calloutParent,
+.getGdaAtHomeWrapper,
+.quoteMark {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.quoteMark {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 var(--padding-3xl) 0 0;
+  gap: var(--gap-3xl);
+}
+.calloutParent {
+  width: 316px;
+  flex-shrink: 0;
+  flex-direction: row;
+  position: relative;
+}
+.tableLayout {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-limegreen);
+  width: 100%;
+  height: 100%;
+}
+.div1 {
+  position: absolute;
+  top: 11px;
+  left: 36px;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 39px;
+  z-index: 1;
+}
+.circlePacking {
+  width: 109px;
+  height: 109px;
+  position: relative;
+}
+.getHeal {
+  margin: 0;
+  height: 33px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 1.8px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  min-width: 114px;
+}
+.dropdownMenu {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-4xs);
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.getHeal1 {
+  position: relative;
+  line-height: 33px;
+  display: inline-block;
+  min-width: 85px;
+}
+.dropdownMenu1 {
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 var(--padding-5xl);
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-20-size);
+  color: var(--color-dimgray-200);
+}
+.dropdownMenu1,
+.imageStack,
+.tableHeader {
+  display: flex;
+  align-items: flex-start;
+}
+.imageStack {
+  width: 123px;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.tableHeader {
+  width: 1244px;
+  overflow-x: auto;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.startBooking {
+  position: relative;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+  letter-spacing: 0.02em;
+  line-height: 155%;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--secondary-color);
+  text-align: left;
+  display: inline-block;
+  min-width: 117px;
+}
+.checkboxList,
+.checkboxListWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.checkboxList {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-10xl);
+  background-color: var(--mid-blue-design);
+  border-radius: var(--br-3xs);
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.checkboxList:hover {
+  background-color: var(--color-dodgerblue-100);
+}
+.checkboxListWrapper {
+  width: 1174px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.scrollbarTrack,
+.tableContainer {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.tableContainer {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-69xl);
+}
+.scrollbarTrack {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-44xl) var(--padding-44xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-gold);
+  font-family: var(--wwwdrugrehabcom-open-sans-regular-14-upper);
+}
+@media screen and (max-width: 1350px) {
+  .scrollbarTrack {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .actionButton,
+  .div,
+  .div1,
+  .divider {
+    font-size: var(--font-size-32xl);
+  }
+  .tableContainer {
+    gap: 44px 88px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .divider {
+    font-size: var(--font-size-19xl);
+  }
+  .search {
+    font-size: var(--font-size-lgi);
+  }
+  .findYourBest {
+    font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+    line-height: 26px;
+  }
+  .div {
+    font-size: var(--font-size-19xl);
+  }
+  .book {
+    font-size: var(--font-size-lgi);
+  }
+  .bookACall {
+    font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+    line-height: 26px;
+  }
+  .actionButton {
+    font-size: var(--font-size-19xl);
+  }
+  .setYourFirst {
+    font-size: var(--font-size-lgi);
+  }
+  .getGdaAt {
+    font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+    line-height: 26px;
+  }
+  .div1 {
+    font-size: var(--font-size-19xl);
+  }
+  .getHeal {
+    font-size: var(--font-size-lgi);
+  }
+  .getHeal1 {
+    font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+    line-height: 26px;
+  }
+  .tableContainer {
+    gap: 22px 88px;
+  }
+  .scrollbarTrack {
+    padding-bottom: var(--padding-22xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,98 @@
+.outputGeneratorChild {
+  height: 170px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-gold);
+  display: none;
+  max-width: 100%;
+}
+.careAtHome,
+.frameChild {
+  position: relative;
+  z-index: 1;
+}
+.careAtHome {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.frameChild {
+  width: 65.5px;
+  height: 63.6px;
+}
+.outputGeneratorInner {
+  height: 69.6px;
+  width: 217px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.requestACall {
+  position: relative;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+  letter-spacing: 0.02em;
+  line-height: 155%;
+  font-family: var(--font-montserrat);
+  color: var(--secondary-color);
+  text-align: left;
+}
+.frameDiv,
+.requestACallBackWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.requestACallBackWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-10xl);
+  background-color: var(--mid-blue-design);
+  border-radius: var(--br-3xs);
+  flex-direction: row;
+  white-space: nowrap;
+  z-index: 1;
+}
+.requestACallBackWrapper:hover {
+  background-color: var(--color-dodgerblue-100);
+}
+.frameDiv {
+  flex-direction: column;
+  padding: var(--padding-2xs) 0 0;
+}
+.inputProcessor,
+.outputGenerator {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.outputGenerator {
+  flex: 1;
+  background-color: var(--color-gold);
+  justify-content: space-between;
+  padding: var(--padding-23xl) var(--padding-61xl) var(--padding-32xl)
+    var(--padding-39xl);
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--mid-blue-design);
+  font-family: var(--font-urbanist);
+}
+.inputProcessor {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-lg);
+}
+@media screen and (max-width: 800px) {
+  .outputGenerator {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,295 @@
+.highlightUnderline3 {
+  position: absolute;
+  top: 12.14px;
+  left: 127px;
+  width: 221.3px;
+  height: 170.6px;
+  overflow: hidden;
+  transform: rotate(-0.84deg);
+  transform-origin: 0 0;
+}
+.weProvideInformation {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  line-height: 135%;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 493px;
+  z-index: 1;
+}
+.highlightUnderline3Parent {
+  align-self: stretch;
+  height: 182.7px;
+  position: relative;
+}
+.needAddictionHelp {
+  margin: 0;
+  width: 340.6px;
+  position: relative;
+  font-size: inherit;
+  line-height: 24.1px;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(0.36deg);
+  max-width: 100%;
+}
+.callTheAdvanced {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+  line-height: 32px;
+  z-index: 1;
+  margin-top: -2.8px;
+}
+.frameContainer,
+.needAddictionHelpParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.needAddictionHelpParent {
+  flex: 1;
+  flex-direction: column;
+}
+.frameContainer {
+  width: 408.2px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+  text-align: center;
+  color: var(--color-limegreen);
+}
+.frameChild,
+.frameItem {
+  border-radius: var(--br-3xs);
+  display: none;
+}
+.frameChild {
+  height: 55px;
+  width: 189px;
+  position: relative;
+  background-color: var(--secondary-color);
+  border: 1px solid var(--color-lightgray-200);
+  box-sizing: border-box;
+}
+.frameItem {
+  height: 25px;
+  width: 52.1px;
+}
+.div {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 25px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 95px;
+  z-index: 2;
+}
+.rectangleParent {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  background-color: var(--secondary-color);
+  border: 1px solid var(--color-lightgray-200);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-11xl);
+}
+.iconlylightOutlinecall {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.callNow {
+  position: relative;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+  letter-spacing: 0.02em;
+  line-height: 155%;
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  color: var(--secondary-color);
+  text-align: left;
+  display: inline-block;
+  min-width: 76px;
+}
+.frameParent1,
+.iconlylightOutlinecallParent {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.iconlylightOutlinecallParent {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-11xl);
+  background-color: var(--mid-blue-design);
+  height: 55px;
+  border-radius: 0 var(--br-3xs) var(--br-3xs) 0;
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  gap: var(--gap-4xs);
+  white-space: nowrap;
+  z-index: 2;
+  margin-left: -29px;
+}
+.iconlylightOutlinecallParent:hover {
+  background-color: var(--color-dodgerblue-100);
+}
+.frameParent1 {
+  flex: 1;
+}
+.frameDiv,
+.frameGroup,
+.frameParent1,
+.frameWrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameDiv {
+  width: 333px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+  color: var(--mid-blue-design);
+}
+.frameGroup,
+.frameWrapper {
+  flex-direction: column;
+}
+.frameGroup {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+}
+.frameWrapper {
+  width: 493px;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  min-width: 493px;
+}
+.frameInner,
+.image3Icon {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  height: 362px;
+}
+.frameInner {
+  top: 0;
+  left: 98px;
+  background: linear-gradient(
+    52.56deg,
+    rgba(37, 180, 248, 0),
+    rgba(37, 180, 248, 0.47) 51.04%,
+    #25b4f8
+  );
+  width: 413px;
+}
+.image3Icon {
+  top: 28px;
+  left: 0;
+  width: 470px;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangleGroup {
+  height: 390px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.frameParent,
+.groupDiv,
+.homeDesktopInner {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.groupDiv {
+  flex: 1;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 332px;
+}
+.frameParent,
+.homeDesktopInner {
+  justify-content: center;
+}
+.frameParent {
+  width: 1140px;
+  align-items: flex-end;
+  gap: var(--gap-117xl);
+}
+.homeDesktopInner {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl) var(--padding-83xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--dark-blue-design);
+  font-family: var(--wwwdrugrehabcom-open-sans-regular-14-upper);
+}
+@media screen and (max-width: 1350px) {
+  .frameParent {
+    gap: 136px 68px;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frameWrapper {
+    flex: 1;
+  }
+  .frameParent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .needAddictionHelp,
+  .weProvideInformation {
+    font-size: var(--font-size-7xl);
+    line-height: 35px;
+  }
+  .needAddictionHelp {
+    line-height: 18px;
+  }
+  .frameGroup {
+    gap: 27px 55px;
+  }
+  .frameWrapper {
+    min-width: 100%;
+  }
+  .frameParent {
+    gap: 136px 34px;
+  }
+  .homeDesktopInner {
+    padding-bottom: var(--padding-47xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .needAddictionHelp,
+  .weProvideInformation {
+    font-size: var(--font-size-lgi);
+    line-height: 26px;
+  }
+  .needAddictionHelp {
+    line-height: 13px;
+  }
+  .frameParent {
+    gap: 136px 17px;
+  }
+}

@@ -1,0 +1,52 @@
+.imagejpgIcon {
+  align-self: stretch;
+  height: 353.3px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading3 {
+  flex: 1;
+  position: relative;
+}
+.divcard,
+.modalHeader {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.modalHeader {
+  width: 311.4px;
+  flex-direction: row;
+  padding: 0 var(--padding-9xl) 0 28.300000000000185px;
+}
+.divcard {
+  height: 508.3px;
+  background-color: var(--secondary-color);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  flex-direction: column;
+  padding: 0 0 var(--padding-77xl);
+  gap: var(--gap-13xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-20-size);
+  color: var(--wwwdrugrehabcom-fiord);
+  font-family: var(--wwwdrugrehabcom-open-sans-regular-14-upper);
+}
+@media screen and (max-width: 800px) {
+  .divcard {
+    padding-bottom: var(--padding-43xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading3 {
+    font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+  }
+  .divcard {
+    gap: 16px 32px;
+  }
+}

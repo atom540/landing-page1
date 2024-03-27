@@ -1,0 +1,177 @@
+.heading2 {
+  margin: 0;
+  width: 432px;
+  height: 43px;
+  position: relative;
+  font-size: inherit;
+  line-height: 33px;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.rehabForAlcohol {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.counsellingGroupTherapy,
+.weWorkWith {
+  margin: 0;
+}
+.rehabForAlcoholContainer {
+  align-self: stretch;
+  height: 192px;
+  position: relative;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-20-size);
+  line-height: 33px;
+  color: var(--color-dimgray-200);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading2FindYourPathToParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xl);
+  max-width: 100%;
+}
+.learnMoreAbout {
+  flex: 1;
+  position: relative;
+  font-size: var(--wwwdrugrehabcom-open-sans-regular-14-upper-size);
+  letter-spacing: 1.4px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-family: var(--wwwdrugrehabcom-open-sans-regular-14-upper);
+  color: var(--mid-blue-design);
+  text-align: center;
+}
+.checkboxSet,
+.frameParent,
+.link {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link,
+.link:hover {
+  box-sizing: border-box;
+}
+.link {
+  cursor: pointer;
+  border: 1px solid var(--mid-blue-design);
+  padding: 18.699999999999815px var(--padding-9xl) 19.700000000000273px;
+  background-color: transparent;
+  width: 324.2px;
+  border-radius: var(--br-3xs);
+  flex-direction: row;
+  white-space: nowrap;
+}
+.link:hover {
+  background-color: var(--color-dodgerblue-200);
+  border: 1px solid var(--color-dodgerblue-100);
+}
+.checkboxSet,
+.frameParent {
+  flex-direction: column;
+}
+.frameParent {
+  align-self: stretch;
+  gap: var(--gap-60xl);
+}
+.checkboxSet {
+  width: 516px;
+  padding: var(--padding-lg) 0 0;
+  box-sizing: border-box;
+  min-width: 516px;
+}
+.image13Icon {
+  height: 531px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-xl);
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 359px;
+}
+.listBoxSet,
+.listBoxSetWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.listBoxSet {
+  width: 1170px;
+  gap: var(--gap-83xl);
+}
+.listBoxSetWrapper {
+  align-self: stretch;
+  padding: 0 var(--padding-xl) var(--padding-62xl) var(--padding-31xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--dark-blue-design);
+  font-family: var(--wwwdrugrehabcom-open-sans-regular-14-upper);
+}
+@media screen and (max-width: 1350px) {
+  .listBoxSet {
+    gap: 102px 51px;
+  }
+  .listBoxSetWrapper {
+    padding-left: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .checkboxSet {
+    flex: 1;
+  }
+  .listBoxSet {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .heading2 {
+    font-size: var(--font-size-7xl);
+    line-height: 26px;
+  }
+  .heading2FindYourPathToParent {
+    gap: 15px 31px;
+  }
+  .frameParent {
+    gap: 39px 79px;
+  }
+  .checkboxSet,
+  .image13Icon {
+    min-width: 100%;
+  }
+  .listBoxSet {
+    gap: 102px 25px;
+  }
+  .listBoxSetWrapper {
+    padding-bottom: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading2 {
+    font-size: var(--font-size-lgi);
+    line-height: 20px;
+  }
+  .rehabForAlcoholContainer {
+    font-size: var(--wwwdrugrehabcom-open-sans-regular-16-size);
+    line-height: 26px;
+  }
+  .frameParent {
+    gap: 20px 79px;
+  }
+}
